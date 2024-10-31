@@ -1,4 +1,4 @@
-# Equipment Monitoring Web Application
+# Real-Time-Equipment-Monitoring-Dashboard
 
 ## Overview
 This web application allows users to monitor various equipment in real-time, visualize data through dynamic charts, and manage user preferences for selected equipment.
